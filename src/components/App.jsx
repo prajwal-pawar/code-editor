@@ -1,7 +1,8 @@
+import CodeEditor from "./CodeEditor";
 import "../styles/App.css";
 
 function App() {
-  return "Hello";
+  return <CodeEditor />;
 }
 
 export default App;
